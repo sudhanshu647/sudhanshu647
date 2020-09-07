@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **AWS services** and **Graphql**.
 - 🤔 I’m looking for help with **Nodejs**
 - 💬 Ask me about **Nodejs**
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 -->
