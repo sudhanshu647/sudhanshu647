@@ -8,7 +8,7 @@
 
 ### 💬 Ask me about **Nodejs**
 
-### 🥅 2020 Goals: Contribute more to Open Source projects.
+### 🥅 2021 Goals: Contribute more to Open Source projects.
 
 
 
